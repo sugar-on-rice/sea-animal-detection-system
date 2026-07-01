@@ -7,7 +7,8 @@ detecting sea creatures [Jellyfish, Harbor seals, Penguins, Fish, Dolphins, and 
 I first create a file full of the labels of the animals I'm going to use to not forget.
 
 When I finished, I ran the docker container and went to my detection ssd folder: 
-          cd ~/jetson-inference/
+
+           cd ~/jetson-inference/
            ./docker/run.sh
 
            cd python/training/detection/ssd
