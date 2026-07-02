@@ -33,3 +33,6 @@ Lastly, we have to download a video and make the ai scan it for any animal is re
           --input-blob=input_0 --output-cvg=scores --output-bbox=boxes  data/VIDEONAME.mp4 data/output.mp4
 I have added two videos as demonstration in the demo folder, if you click on them, you should see the ai I have trained to detect the sea animals.
 
+Explanation video link:
+https://drive.google.com/file/d/1RrH3mhr_B2Y0grMJjHCSfejk3mw0JWJu/view?usp=sharing
+
